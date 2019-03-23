@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <!-- Include forked CAF -->
-  <include name="omni-caf.xml" />
-
   <!-- OmniROM Projects -->
   <project path="android" name="android" remote="omnirom" revision="android-8.1" />
 
